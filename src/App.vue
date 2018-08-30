@@ -2,6 +2,8 @@
     <div id="app">
         <pm-header></pm-header>
 
+        <router-view></router-view>
+
         <pm-footer></pm-footer>
     </div>
 </template>
